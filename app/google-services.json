@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "97375389455",
+    "firebase_url": "https://homegym-15b0b-default-rtdb.firebaseio.com",
+    "project_id": "homegym-15b0b",
+    "storage_bucket": "homegym-15b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97375389455:android:b7e9ac04ad658dd4d2607a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7E5AhMFnUPZwbVW1_d9PYLEdI1YFVK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

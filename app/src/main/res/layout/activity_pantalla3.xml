@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagen4"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Pantalla3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="369dp"
+        android:layout_height="wrap_content"
+        android:text="Home Gym"
+        android:textAlignment="center"
+        android:textColor="#0B0A0A"
+        android:textSize="34sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="163dp"
+        android:layout_height="96dp"
+        app:srcCompat="@drawable/imagen5" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="135dp"
+        android:layout_height="wrap_content"
+        android:text="Abdomen" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="165dp"
+        android:layout_height="107dp"
+        app:srcCompat="@drawable/imagen6" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="145dp"
+        android:layout_height="wrap_content"
+        android:text="Espalda" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="166dp"
+        android:layout_height="122dp"
+        app:srcCompat="@drawable/imagen7" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="Brazo" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="162dp"
+        android:layout_height="110dp"
+        app:srcCompat="@drawable/imagen8" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:text="Pecho" />
+
+</LinearLayout>
