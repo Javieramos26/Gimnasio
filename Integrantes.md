@@ -1,4 +1,4 @@
-## Integrantes Grupo
+## Integrantes Grupo de trabajo
 
 **Heberth Javier Ramos Vanegas**
 
